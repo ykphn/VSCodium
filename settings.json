@@ -1,0 +1,20 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "workbench.colorCustomizations": {
+        "editorBracketMatch.border": "#aaaa",
+        "editorBracketHighlight.foreground1": "#ff0f",
+        "editorBracketHighlight.foreground2": "#0fff",
+        "editorBracketHighlight.foreground3": "#f0ff",
+    },
+    "window.restoreWindows": "none",
+    "workbench.iconTheme": "material-icon-theme",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
+    "git.autofetch": true,
+    "workbench.colorTheme": "Dracula Theme Soft",
+    "python.defaultInterpreterPath": "/bin/python"
+}
