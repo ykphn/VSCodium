@@ -3,10 +3,13 @@
     "editor.fontSize": 16,
     "files.autoSave": "afterDelay",
     "workbench.colorCustomizations": {
-        "editorBracketMatch.border": "#aaaa",
+        "editorBracketMatch.border": "#ccc",
         "editorBracketHighlight.foreground1": "#ff0f",
         "editorBracketHighlight.foreground2": "#0fff",
         "editorBracketHighlight.foreground3": "#f0ff",
+        "editorBracketHighlight.foreground4": "#ff0f",
+        "editorBracketHighlight.foreground5": "#0fff",
+        "editorBracketHighlight.foreground6": "#f0ff"
     },
     "window.restoreWindows": "none",
     "workbench.iconTheme": "material-icon-theme",
@@ -16,5 +19,6 @@
     },
     "git.autofetch": true,
     "workbench.colorTheme": "Dracula Theme Soft",
-    "python.defaultInterpreterPath": "/bin/python"
+    "python.defaultInterpreterPath": "/bin/python",
+    "window.customTitleBarVisibility": "auto"
 }
